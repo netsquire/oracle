@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Assessment:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Assessment_jar</output-path>
+    <root id="archive" name="Assessment.jar">
+      <element id="module-output" name="Assessment" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/groovy-all-2.4.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
